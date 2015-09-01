@@ -3,11 +3,8 @@
     "be": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11093 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 12004 $"
         },
         "language": "be"
       },
@@ -15,8 +12,8 @@
         "listPattern-type-standard": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, {1}",
-          "2": "{0}, {1}"
+          "end": "{0} і {1}",
+          "2": "{0} і {1}"
         },
         "listPattern-type-unit": {
           "start": "{0}, {1}",
@@ -25,10 +22,10 @@
           "2": "{0}, {1}"
         },
         "listPattern-type-unit-narrow": {
-          "start": "{0}, {1}",
-          "middle": "{0}, {1}",
-          "end": "{0}, {1}",
-          "2": "{0}, {1}"
+          "start": "{0} {1}",
+          "middle": "{0} {1}",
+          "end": "{0} {1}",
+          "2": "{0} {1}"
         },
         "listPattern-type-unit-short": {
           "start": "{0}, {1}",

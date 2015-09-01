@@ -3,11 +3,8 @@
     "fo": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11227 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-18 08:46:28 -0600 (Wed, 18 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11917 $"
         },
         "language": "fo"
       },
@@ -21,7 +18,7 @@
         "listPattern-type-unit": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, {1}",
+          "end": "{0} og {1}",
           "2": "{0}, {1}"
         },
         "listPattern-type-unit-narrow": {
