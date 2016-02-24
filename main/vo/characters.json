@@ -3,14 +3,14 @@
     "vo": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12319 $",
+          "_cldrVersion": "29"
         },
         "language": "vo"
       },
       "characters": {
-        "exemplarCharacters": "[a ä b c d e f g h i j k l m n o ö p q r s š t u ü v x y z]",
-        "auxiliary": "[w]",
+        "exemplarCharacters": "[a ä b c d e f g h i j k l m n o ö p r s t u ü v x y z]",
+        "auxiliary": "[q w]",
         "index": "[A Ä B C D E F G H I J K L M N O Ö P R S T U Ü V X Y Z]",
         "punctuation": "[\\\\- ‐ – — , ; \\\\: ! ? . … ' ‘ ’ \\\" “ ” « » ( ) \\\\[ \\\\] \\\\{ \\\\} § @ * / \\\\& #]",
         "ellipsis": {
