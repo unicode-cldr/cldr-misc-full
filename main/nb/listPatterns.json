@@ -3,13 +3,19 @@
     "nb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12379 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 13007 $",
+          "_cldrVersion": "30"
         },
         "language": "nb"
       },
       "listPatterns": {
         "listPattern-type-standard": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0} og {1}",
+          "2": "{0} og {1}"
+        },
+        "listPattern-type-standard-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
           "end": "{0} og {1}",

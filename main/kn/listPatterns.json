@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "kn"
       },
@@ -15,22 +15,28 @@
           "end": "{0}, ಮತ್ತು {1}",
           "2": "{0} ಮತ್ತು {1}"
         },
-        "listPattern-type-unit": {
+        "listPattern-type-standard-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
           "end": "{0}, ಮತ್ತು {1}",
+          "2": "{0} ಮತ್ತು {1}"
+        },
+        "listPattern-type-unit": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0}, {1}",
           "2": "{0}, {1}"
         },
         "listPattern-type-unit-narrow": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, ಮತ್ತು {1}",
+          "end": "{0}, {1}",
           "2": "{0} {1}"
         },
         "listPattern-type-unit-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, ಮತ್ತು {1}",
+          "end": "{0}, {1}",
           "2": "{0}, {1}"
         }
       }

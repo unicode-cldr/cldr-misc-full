@@ -3,8 +3,8 @@
     "zh-Hant-HK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12217 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "zh",
         "script": "Hant",
@@ -16,6 +16,12 @@
           "middle": "{0}、{1}",
           "end": "{0}及{1}",
           "2": "{0}及{1}"
+        },
+        "listPattern-type-standard-short": {
+          "start": "{0}、{1}",
+          "middle": "{0}、{1}",
+          "end": "{0}和{1}",
+          "2": "{0}和{1}"
         },
         "listPattern-type-unit": {
           "start": "{0} {1}",

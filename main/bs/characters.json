@@ -3,8 +3,8 @@
     "bs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "bs"
       },
@@ -14,11 +14,11 @@
         "punctuation": "[\\\\- , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
         "ellipsis": {
           "final": "{0}…",
-          "initial": "… {0}",
+          "initial": "…{0}",
           "medial": "{0}… {1}",
           "word-final": "{0}…",
           "word-initial": "… {0}",
-          "word-medial": "{0}… {1}"
+          "word-medial": "{0} … {1}"
         },
         "moreInformation": "?"
       }

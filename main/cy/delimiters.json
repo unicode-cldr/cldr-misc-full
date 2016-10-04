@@ -3,16 +3,16 @@
     "cy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 13006 $",
+          "_cldrVersion": "30"
         },
         "language": "cy"
       },
       "delimiters": {
-        "quotationStart": "‘",
-        "quotationEnd": "’",
-        "alternateQuotationStart": "“",
-        "alternateQuotationEnd": "”"
+        "quotationStart": "“",
+        "quotationEnd": "”",
+        "alternateQuotationStart": "‘",
+        "alternateQuotationEnd": "’"
       }
     }
   }

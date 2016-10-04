@@ -3,8 +3,8 @@
     "tr-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "tr",
         "territory": "CY"
@@ -12,7 +12,7 @@
       "posix": {
         "messages": {
           "yesstr": "evet:e",
-          "nostr": "hayır:hayir:h"
+          "nostr": "hayir:h"
         }
       }
     }

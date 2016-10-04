@@ -3,13 +3,19 @@
     "dz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12961 $",
+          "_cldrVersion": "30"
         },
         "language": "dz"
       },
       "listPatterns": {
         "listPattern-type-standard": {
+          "start": "{0} དང་ {1}",
+          "middle": "{0} དང་ {1}",
+          "end": "{0} དང་ {1}",
+          "2": "{0} དང་ {1}"
+        },
+        "listPattern-type-standard-short": {
           "start": "{0} དང་ {1}",
           "middle": "{0} དང་ {1}",
           "end": "{0} དང་ {1}",

@@ -3,15 +3,15 @@
     "tr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12373 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "tr"
       },
       "posix": {
         "messages": {
           "yesstr": "evet:e",
-          "nostr": "hayır:hayir:h"
+          "nostr": "hayir:h"
         }
       }
     }

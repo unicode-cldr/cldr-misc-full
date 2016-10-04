@@ -3,15 +3,15 @@
     "fil": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "fil"
       },
       "characters": {
         "exemplarCharacters": "[a b c d e f g h i j k l m n ñ {ng} o p q r s t u v w x y z]",
         "auxiliary": "[á à â é è ê í ì î ó ò ô ú ù û]",
-        "index": "[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z]",
+        "index": "[A B C D E F G H I J K L M N Ñ {Ng} O P Q R S T U V W X Y Z]",
         "punctuation": "[\\\\- ‐ – — , ; \\\\: ! ? . … ' ‘ ’ \\\" “ ” ( ) \\\\[ \\\\] § * / \\\\& # ′ ″]",
         "ellipsis": {
           "final": "{0}…",

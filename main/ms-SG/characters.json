@@ -3,8 +3,8 @@
     "ms-SG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ms",
         "territory": "SG"
@@ -13,7 +13,7 @@
         "exemplarCharacters": "[a {ai} {au} b c d {dz} e f g h i j k {kh} l m n {ng} {ngg} {ny} o p q r s {sy} t {ts} u {ua} v w x y z]",
         "auxiliary": "[]",
         "index": "[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z]",
-        "punctuation": "[\\\\- , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
+        "punctuation": "[\\\\- ‐ – — , ; \\\\: ! ? . … ' ‘ ’ \\\" “ ” ( ) \\\\[ \\\\] § @ * / \\\\& # † ‡ ′ ″]",
         "ellipsis": {
           "final": "{0}…",
           "initial": "…{0}",

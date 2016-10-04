@@ -3,15 +3,15 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ja"
       },
       "posix": {
         "messages": {
-          "yesstr": "はい:ハイ",
-          "nostr": "いいえ:イイエ"
+          "yesstr": "はい:y",
+          "nostr": "いいえ:n"
         }
       }
     }

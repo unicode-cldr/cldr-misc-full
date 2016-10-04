@@ -3,8 +3,8 @@
     "de": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "de"
       },
@@ -14,9 +14,9 @@
         "index": "[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z]",
         "punctuation": "[\\\\- ‐ – — , ; \\\\: ! ? . … ' ‘ ‚ \\\" “ „ « » ( ) \\\\[ \\\\] \\\\{ \\\\} § @ * / \\\\& #]",
         "ellipsis": {
-          "final": "{0} …",
-          "initial": "… {0}",
-          "medial": "{0} … {1}",
+          "final": "{0}…",
+          "initial": "…{0}",
+          "medial": "{0}…{1}",
           "word-final": "{0} …",
           "word-initial": "… {0}",
           "word-medial": "{0} … {1}"

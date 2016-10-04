@@ -1,0 +1,19 @@
+{
+  "main": {
+    "nds": {
+      "identity": {
+        "version": {
+          "_number": "$Revision: 12871 $",
+          "_cldrVersion": "30"
+        },
+        "language": "nds"
+      },
+      "layout": {
+        "orientation": {
+          "characterOrder": "left-to-right",
+          "lineOrder": "top-to-bottom"
+        }
+      }
+    }
+  }
+}

@@ -3,8 +3,8 @@
     "ar-OM": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ar",
         "territory": "OM"
@@ -16,21 +16,27 @@
           "end": "{0}، و{1}",
           "2": "{0} و{1}"
         },
+        "listPattern-type-standard-short": {
+          "start": "{0}، و{1}",
+          "middle": "{0}، و{1}",
+          "end": "{0}، و{1}",
+          "2": "{0} و{1}"
+        },
         "listPattern-type-unit": {
-          "start": "{0}، {1}",
-          "middle": "{0}، {1}",
+          "start": "{0}، و{1}",
+          "middle": "{0}، و{1}",
           "end": "{0}، و{1}",
           "2": "{0} و{1}"
         },
         "listPattern-type-unit-narrow": {
           "start": "{0}، {1}",
           "middle": "{0}، {1}",
-          "end": "{0}، و{1}",
-          "2": "{0} و{1}"
+          "end": "{0}، {1}",
+          "2": "{0}، {1}"
         },
         "listPattern-type-unit-short": {
-          "start": "{0}، {1}",
-          "middle": "{0}، {1}",
+          "start": "{0}، و{1}",
+          "middle": "{0}، و{1}",
           "end": "{0}، و{1}",
           "2": "{0} و{1}"
         }

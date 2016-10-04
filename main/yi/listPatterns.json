@@ -3,13 +3,19 @@
     "yi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12797 $",
+          "_cldrVersion": "30"
         },
         "language": "yi"
       },
       "listPatterns": {
         "listPattern-type-standard": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0} און {1}",
+          "2": "{0} און {1}"
+        },
+        "listPattern-type-standard-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
           "end": "{0} און {1}",

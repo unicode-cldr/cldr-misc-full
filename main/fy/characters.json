@@ -3,15 +3,15 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12944 $",
+          "_cldrVersion": "30"
         },
         "language": "fy"
       },
       "characters": {
-        "exemplarCharacters": "[a á ä b c d e é ë f g h i ì ï {ij} {íj\\u0301} j k l m n o ò ö p r s t u ú ü v w y ỳ z]",
-        "auxiliary": "[à â æ è ê ô ù û]",
-        "index": "[A B C D E F G H I J K L M N O P R S T U V W Y Z]",
+        "exemplarCharacters": "[a á à â ä b c d e é è ê ë f g h i í ï {ij} {íj\\u0301} j k l m n o ó ô ö p r s t u ú û ü v w y ý z]",
+        "auxiliary": "[æ ò ù]",
+        "index": "[A B C D E F G H I J K L M N O P R S T U V W X Z]",
         "punctuation": "[\\\\- ‐ – — , ; \\\\: ! ? . … ' ‘ ’ \\\" “ ” ( ) \\\\[ \\\\] § @ * / \\\\& # † ‡ ′ ″]",
         "ellipsis": {
           "final": "{0}…",

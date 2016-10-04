@@ -1,0 +1,19 @@
+{
+  "main": {
+    "nds": {
+      "identity": {
+        "version": {
+          "_number": "$Revision: 12871 $",
+          "_cldrVersion": "30"
+        },
+        "language": "nds"
+      },
+      "posix": {
+        "messages": {
+          "yesstr": "yes:y",
+          "nostr": "no:n"
+        }
+      }
+    }
+  }
+}

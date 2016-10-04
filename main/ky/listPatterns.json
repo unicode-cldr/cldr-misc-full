@@ -3,13 +3,19 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ky"
       },
       "listPatterns": {
         "listPattern-type-standard": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0} жана {1}",
+          "2": "{0} жана {1}"
+        },
+        "listPattern-type-standard-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
           "end": "{0} жана {1}",

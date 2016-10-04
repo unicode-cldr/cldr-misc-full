@@ -3,8 +3,8 @@
     "zh-Hans-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "zh",
         "script": "Hans",
@@ -12,6 +12,12 @@
       },
       "listPatterns": {
         "listPattern-type-standard": {
+          "start": "{0}、{1}",
+          "middle": "{0}、{1}",
+          "end": "{0}和{1}",
+          "2": "{0}和{1}"
+        },
+        "listPattern-type-standard-short": {
           "start": "{0}、{1}",
           "middle": "{0}、{1}",
           "end": "{0}和{1}",

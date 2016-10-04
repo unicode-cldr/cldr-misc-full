@@ -3,14 +3,20 @@
     "nl-BQ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "nl",
         "territory": "BQ"
       },
       "listPatterns": {
         "listPattern-type-standard": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0} en {1}",
+          "2": "{0} en {1}"
+        },
+        "listPattern-type-standard-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
           "end": "{0} en {1}",

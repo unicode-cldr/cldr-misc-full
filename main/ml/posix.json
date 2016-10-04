@@ -3,14 +3,14 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ml"
       },
       "posix": {
         "messages": {
-          "yesstr": "അതെ",
+          "yesstr": "ഉവ്വ്",
           "nostr": "അല്ല"
         }
       }

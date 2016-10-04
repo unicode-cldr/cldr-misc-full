@@ -3,8 +3,8 @@
     "az": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "az"
       },
@@ -15,11 +15,17 @@
           "end": "{0} və {1}",
           "2": "{0} və {1}"
         },
-        "listPattern-type-unit": {
+        "listPattern-type-standard-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
           "end": "{0} və {1}",
           "2": "{0} və {1}"
+        },
+        "listPattern-type-unit": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0}, {1}",
+          "2": "{0}, {1}"
         },
         "listPattern-type-unit-narrow": {
           "start": "{0}, {1}",

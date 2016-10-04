@@ -3,8 +3,8 @@
     "bn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12306 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12944 $",
+          "_cldrVersion": "30"
         },
         "language": "bn"
       },
@@ -12,26 +12,32 @@
         "listPattern-type-standard": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, এবং {1}",
+          "end": "{0} এবং {1}",
+          "2": "{0} এবং {1}"
+        },
+        "listPattern-type-standard-short": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0} এবং {1}",
           "2": "{0} এবং {1}"
         },
         "listPattern-type-unit": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
           "end": "{0}, {1}",
-          "2": "{0} এবং {1}"
+          "2": "{0}, {1}"
         },
         "listPattern-type-unit-narrow": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
           "end": "{0}, {1}",
-          "2": "{0} এবং {1}"
+          "2": "{0}, {1}"
         },
         "listPattern-type-unit-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
           "end": "{0}, {1}",
-          "2": "{0} এবং {1}"
+          "2": "{0}, {1}"
         }
       }
     }

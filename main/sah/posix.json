@@ -3,15 +3,15 @@
     "sah": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12787 $",
+          "_cldrVersion": "30"
         },
         "language": "sah"
       },
       "posix": {
         "messages": {
-          "yesstr": "yes:y",
-          "nostr": "no:n"
+          "yesstr": "сөп:с",
+          "nostr": "суох:х"
         }
       }
     }

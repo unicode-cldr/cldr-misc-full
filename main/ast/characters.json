@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12411 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "ast"
       },
@@ -19,7 +19,7 @@
           "medial": "{0}… {1}",
           "word-final": "{0} …",
           "word-initial": "… {0}",
-          "word-medial": "{0} … {1}"
+          "word-medial": "{0}… {1}"
         },
         "moreInformation": "?"
       }

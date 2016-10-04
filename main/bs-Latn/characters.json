@@ -3,8 +3,8 @@
     "bs-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "bs",
         "script": "Latn"
@@ -15,11 +15,11 @@
         "punctuation": "[\\\\- , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
         "ellipsis": {
           "final": "{0}…",
-          "initial": "… {0}",
+          "initial": "…{0}",
           "medial": "{0}… {1}",
           "word-final": "{0}…",
           "word-initial": "… {0}",
-          "word-medial": "{0}… {1}"
+          "word-medial": "{0} … {1}"
         },
         "moreInformation": "?"
       }

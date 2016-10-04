@@ -3,8 +3,8 @@
     "de-AT": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12873 $",
+          "_cldrVersion": "30"
         },
         "language": "de",
         "territory": "AT"
@@ -15,9 +15,9 @@
         "index": "[A Ä B C D E F G H I J K L M N O Ö P Q R S T U Ü V W X Y Z]",
         "punctuation": "[\\\\- ‐ – — , ; \\\\: ! ? . … ' ‘ ‚ \\\" “ „ « » ( ) \\\\[ \\\\] \\\\{ \\\\} § @ * / \\\\& #]",
         "ellipsis": {
-          "final": "{0} …",
-          "initial": "… {0}",
-          "medial": "{0} … {1}",
+          "final": "{0}…",
+          "initial": "…{0}",
+          "medial": "{0}…{1}",
           "word-final": "{0} …",
           "word-initial": "… {0}",
           "word-medial": "{0} … {1}"

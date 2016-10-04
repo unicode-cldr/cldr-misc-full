@@ -3,15 +3,15 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "chr"
       },
       "posix": {
         "messages": {
-          "yesstr": "ᎥᎥ",
-          "nostr": "ᎥᏝ"
+          "yesstr": "ᎥᎥ:Ꭵ",
+          "nostr": "ᎥᏝ:Ꮭ"
         }
       }
     }
