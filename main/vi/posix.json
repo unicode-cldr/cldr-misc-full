@@ -3,15 +3,15 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "vi"
       },
       "posix": {
         "messages": {
-          "yesstr": "yes:c",
-          "nostr": "no:k"
+          "yesstr": "có:c",
+          "nostr": "không:k"
         }
       }
     }

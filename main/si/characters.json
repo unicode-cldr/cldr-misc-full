@@ -3,8 +3,8 @@
     "si": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13196 $",
+          "_cldrVersion": "31"
         },
         "language": "si"
       },
@@ -21,7 +21,26 @@
           "word-initial": "… {0}",
           "word-medial": "{0} … {1}"
         },
-        "moreInformation": "?"
+        "moreInformation": "?",
+        "lenient-scope-date": {
+          "-": "[\\\\-./]",
+          ":": "[\\\\:∶]"
+        },
+        "lenient-scope-general": {
+          ".": "[.．․﹒ 。︒｡]",
+          "$": "[$﹩＄$]",
+          "£": "[£₤]",
+          "₹": "[₨₹{Rs}{Rp}]"
+        },
+        "lenient-scope-number": {
+          "-": "[\\\\-－﹣ −⁻₋ ➖‒]",
+          ",": "[,，﹐︐ ، ٫ 、﹑︑､]",
+          "+": "[+＋﬩﹢⁺₊ ➕]"
+        },
+        "stricter-scope-number": {
+          ",": "[,，﹐︐ ٫]",
+          ".": "[.．․﹒ ｡]"
+        }
       }
     }
   }
