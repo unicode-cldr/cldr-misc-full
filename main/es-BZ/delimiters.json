@@ -4,14 +4,14 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13237 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "es",
         "territory": "BZ"
       },
       "delimiters": {
-        "quotationStart": "«",
-        "quotationEnd": "»",
+        "quotationStart": "“",
+        "quotationEnd": "”",
         "alternateQuotationStart": "“",
         "alternateQuotationEnd": "”"
       }

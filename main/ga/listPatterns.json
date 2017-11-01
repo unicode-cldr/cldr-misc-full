@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ga"
       },
@@ -14,6 +14,12 @@
           "middle": "{0}, {1}",
           "end": "{0}, agus {1}",
           "2": "{0} agus {1}"
+        },
+        "listPattern-type-or": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0}, nó {1}",
+          "2": "{0} nó {1}"
         },
         "listPattern-type-standard-short": {
           "start": "{0}, {1}",

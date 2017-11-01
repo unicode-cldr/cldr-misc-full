@@ -3,15 +3,15 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "he"
       },
       "posix": {
         "messages": {
-          "yesstr": "yes:y",
-          "nostr": "no:n"
+          "yesstr": "כן:כ",
+          "nostr": "לא:ל"
         }
       }
     }

@@ -3,8 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13272 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -15,6 +15,12 @@
           "middle": "{0}, {1}",
           "end": "{0} и {1}",
           "2": "{0} и {1}"
+        },
+        "listPattern-type-or": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0}, or {1}",
+          "2": "{0} or {1}"
         },
         "listPattern-type-standard-short": {
           "start": "{0}, {1}",

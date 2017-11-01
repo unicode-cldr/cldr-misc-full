@@ -3,8 +3,8 @@
     "prg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "prg"
       },
@@ -12,6 +12,7 @@
         "exemplarCharacters": "[a ā b c d ḑ e ē f g ģ h i ī j k ķ l m n ņ o ō p q r ŗ s š t ț u ū v w x y z ž]",
         "auxiliary": "[]",
         "index": "[A Ā B C D Ḑ E Ē F G Ģ H I Ī J K Ķ L M N Ņ O Ō P Q R Ŗ S Š T Ț U Ū V W X Y Z Ž]",
+        "numbers": "[  \\\\- , % ‰ + 0 1 2 3 4 5 6 7 8 9]",
         "punctuation": "[\\\\- ‐ – — , ; \\\\: ! ? . … “ „ ( ) \\\\[ \\\\] \\\\{ \\\\}]",
         "ellipsis": {
           "final": "{0}…",
@@ -23,23 +24,23 @@
         },
         "moreInformation": "?",
         "lenient-scope-date": {
-          "-": "[\\\\-./]",
+          "-": "[\\\\--/]",
           ":": "[\\\\:∶]"
         },
         "lenient-scope-general": {
-          ".": "[.．․﹒ 。︒｡]",
-          "$": "[$﹩＄$]",
+          ".": "[.․。︒﹒．｡]",
+          "$": "[\\\\$﹩＄$]",
           "£": "[£₤]",
-          "₹": "[₨₹{Rs}{Rp}]"
+          "₹": "[₨₹{Rp}{Rs}]"
         },
         "lenient-scope-number": {
-          "-": "[\\\\-－﹣ −⁻₋ ➖‒]",
-          ",": "[,，﹐︐ ، ٫ 、﹑︑､]",
-          "+": "[+＋﬩﹢⁺₊ ➕]"
+          "-": "[\\\\-‒⁻₋−➖﹣－]",
+          ",": "[,،٫、︐︑﹐﹑，､]",
+          "+": "[+⁺₊➕﬩﹢＋]"
         },
         "stricter-scope-number": {
-          ",": "[,，﹐︐ ٫]",
-          ".": "[.．․﹒ ｡]"
+          ",": "[,٫︐﹐，]",
+          ".": "[.․﹒．｡]"
         }
       }
     }

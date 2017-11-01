@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "am"
       },
@@ -15,6 +15,12 @@
           "end": "{0}, እና {1}",
           "2": "{0} እና {1}"
         },
+        "listPattern-type-or": {
+          "start": "{0}፣ {1}",
+          "middle": "{0}፣ {1}",
+          "end": "{0} ወይም {1}﻿",
+          "2": "{0} ወይም {1}﻿"
+        },
         "listPattern-type-standard-short": {
           "start": "{0}፣ {1}",
           "middle": "{0}፣ {1}",
@@ -24,20 +30,20 @@
         "listPattern-type-unit": {
           "start": "{0}፣ {1}",
           "middle": "{0}፣ {1}",
-          "end": "{0}, እና {1}",
-          "2": "{0} እና {1}"
+          "end": "{0}፣ {1}",
+          "2": "{0}፣ {1}"
         },
         "listPattern-type-unit-narrow": {
           "start": "{0}፣ {1}",
           "middle": "{0}፣ {1}",
-          "end": "{0}, እና {1}",
-          "2": "{0} እና {1}"
+          "end": "{0} {1}",
+          "2": "{0} {1}"
         },
         "listPattern-type-unit-short": {
           "start": "{0}፣ {1}",
           "middle": "{0}፣ {1}",
-          "end": "{0}, እና {1}",
-          "2": "{0} እና {1}"
+          "end": "{0}፣ {1}",
+          "2": "{0}፣ {1}"
         }
       }
     }

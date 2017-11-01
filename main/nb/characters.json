@@ -3,8 +3,8 @@
     "nb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "nb"
       },
@@ -12,6 +12,7 @@
         "exemplarCharacters": "[a à b c d e é f g h i j k l m n o ó ò ô p q r s t u v w x y z æ ø å]",
         "auxiliary": "[á ǎ ã č ç đ è ê í ń ñ ŋ š ŧ ú ü ž ä ö]",
         "index": "[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å]",
+        "numbers": "[  , % ‰ + − 0 1 2 3 4 5 6 7 8 9]",
         "punctuation": "[\\\\- – , ; \\\\: ! ? . ' \\\" « » ( ) \\\\[ \\\\] \\\\{ \\\\} § @ * / \\\\\\\\]",
         "ellipsis": {
           "final": "{0}…",
@@ -23,23 +24,23 @@
         },
         "moreInformation": "?",
         "lenient-scope-date": {
-          "-": "[\\\\-./]",
+          "-": "[\\\\--/]",
           ":": "[\\\\:∶]"
         },
         "lenient-scope-general": {
-          ".": "[.．․﹒ 。︒｡]",
-          "$": "[$﹩＄$]",
+          ".": "[.․。︒﹒．｡]",
+          "$": "[\\\\$﹩＄$]",
           "£": "[£₤]",
-          "₹": "[₨₹{Rs}{Rp}]"
+          "₹": "[₨₹{Rp}{Rs}]"
         },
         "lenient-scope-number": {
-          "-": "[\\\\-－﹣ −⁻₋ ➖‒]",
-          ",": "[,，﹐︐ ، ٫ 、﹑︑､]",
-          "+": "[+＋﬩﹢⁺₊ ➕]"
+          "-": "[\\\\-‒⁻₋−➖﹣－]",
+          ",": "[,،٫、︐︑﹐﹑，､]",
+          "+": "[+⁺₊➕﬩﹢＋]"
         },
         "stricter-scope-number": {
-          ",": "[,，﹐︐ ٫]",
-          ".": "[.．․﹒ ｡]"
+          ",": "[,٫︐﹐，]",
+          ".": "[.․﹒．｡]"
         }
       }
     }

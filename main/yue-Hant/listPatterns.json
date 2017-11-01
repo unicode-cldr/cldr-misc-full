@@ -1,12 +1,13 @@
 {
   "main": {
-    "yue": {
+    "yue-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13680 $",
+          "_cldrVersion": "32"
         },
-        "language": "yue"
+        "language": "yue",
+        "script": "Hant"
       },
       "listPatterns": {
         "listPattern-type-standard": {
@@ -14,6 +15,12 @@
           "middle": "{0}、{1}",
           "end": "{0}同{1}",
           "2": "{0}同{1}"
+        },
+        "listPattern-type-or": {
+          "start": "{0}、{1}",
+          "middle": "{0}、{1}",
+          "end": "{0} 或 {1}",
+          "2": "{0} 或 {1}"
         },
         "listPattern-type-standard-short": {
           "start": "{0}、{1}",
