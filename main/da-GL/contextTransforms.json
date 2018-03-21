@@ -3,14 +3,18 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13706 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "da",
         "territory": "GL"
       },
       "contextTransforms": {
         "languages": {
+          "uiListOrMenu": "titlecase-firstword"
+        },
+        "typographicNames": {
+          "stand-alone": "titlecase-firstword",
           "uiListOrMenu": "titlecase-firstword"
         }
       }

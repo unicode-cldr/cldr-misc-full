@@ -3,8 +3,8 @@
     "ru": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13758 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "ru"
       },
@@ -50,6 +50,10 @@
           "uiListOrMenu": "titlecase-firstword"
         },
         "script": {
+          "stand-alone": "titlecase-firstword",
+          "uiListOrMenu": "titlecase-firstword"
+        },
+        "typographicNames": {
           "stand-alone": "titlecase-firstword",
           "uiListOrMenu": "titlecase-firstword"
         }
