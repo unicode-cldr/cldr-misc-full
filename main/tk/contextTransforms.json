@@ -1,0 +1,18 @@
+{
+  "main": {
+    "tk": {
+      "identity": {
+        "version": {
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
+        },
+        "language": "tk"
+      },
+      "contextTransforms": {
+        "languages": {
+          "stand-alone": "titlecase-firstword"
+        }
+      }
+    }
+  }
+}

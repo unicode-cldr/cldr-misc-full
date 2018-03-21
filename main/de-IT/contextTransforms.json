@@ -1,0 +1,20 @@
+{
+  "main": {
+    "de-IT": {
+      "identity": {
+        "version": {
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
+        },
+        "language": "de",
+        "territory": "IT"
+      },
+      "contextTransforms": {
+        "typographicNames": {
+          "stand-alone": "titlecase-firstword",
+          "uiListOrMenu": "titlecase-firstword"
+        }
+      }
+    }
+  }
+}

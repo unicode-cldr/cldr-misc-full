@@ -1,0 +1,19 @@
+{
+  "main": {
+    "ca": {
+      "identity": {
+        "version": {
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
+        },
+        "language": "ca"
+      },
+      "contextTransforms": {
+        "typographicNames": {
+          "stand-alone": "titlecase-firstword",
+          "uiListOrMenu": "titlecase-firstword"
+        }
+      }
+    }
+  }
+}
