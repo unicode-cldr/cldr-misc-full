@@ -3,14 +3,14 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "gl"
       },
       "characters": {
         "exemplarCharacters": "[a á b c d e é f g h i í j k l m n ñ o ó p q r s t u ú ü v w x y z]",
-        "auxiliary": "[ª à â ä ã ç è ê ë ì î ï º ò ô ö õ ù û]",
+        "auxiliary": "[ª à â å ä ã ç è ê ë ì î ï º ò ô ö õ ù û]",
         "index": "[A B C D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z]",
         "numbers": "[\\\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]",
         "punctuation": "[\\\\- ‐ – — , ; \\\\: ! ? . … ' ‘ ’ \\\" “ ” ( ) \\\\[ \\\\] § @ * / \\\\& # † ‡ ′ ″]",
@@ -29,8 +29,13 @@
         },
         "lenient-scope-general": {
           ".": "[.․。︒﹒．｡]",
+          "’": "['ʼ՚᾽᾿’＇]",
+          "%": "[%٪﹪％]",
+          "‰": "[؉‰]",
           "$": "[\\\\$﹩＄$]",
           "£": "[£₤]",
+          "¥": "[¥￥]",
+          "₩": "[₩￦]",
           "₹": "[₨₹{Rp}{Rs}]"
         },
         "lenient-scope-number": {

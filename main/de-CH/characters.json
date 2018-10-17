@@ -3,8 +3,8 @@
     "de-CH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13937 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14450 $",
+          "_cldrVersion": "34"
         },
         "language": "de",
         "territory": "CH"
@@ -30,8 +30,13 @@
         },
         "lenient-scope-general": {
           ".": "[.․。︒﹒．｡]",
+          "’": "['ʼ՚᾽᾿’＇]",
+          "%": "[%٪﹪％]",
+          "‰": "[؉‰]",
           "$": "[\\\\$﹩＄$]",
           "£": "[£₤]",
+          "¥": "[¥￥]",
+          "₩": "[₩￦]",
           "₹": "[₨₹{Rp}{Rs}]"
         },
         "lenient-scope-number": {

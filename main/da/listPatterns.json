@@ -3,8 +3,8 @@
     "da": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "da"
       },
@@ -20,6 +20,24 @@
           "middle": "{0}, {1}",
           "end": "{0} eller {1}",
           "2": "{0} eller {1}"
+        },
+        "listPattern-type-or-narrow": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0} eller {1}",
+          "2": "{0} eller {1}"
+        },
+        "listPattern-type-or-short": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0} eller {1}",
+          "2": "{0} eller {1}"
+        },
+        "listPattern-type-standard-narrow": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0} og {1}",
+          "2": "{0} og {1}"
         },
         "listPattern-type-standard-short": {
           "start": "{0}, {1}",

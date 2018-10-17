@@ -3,8 +3,8 @@
     "dz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "dz"
       },
@@ -20,6 +20,24 @@
           "middle": "{0}, {1}",
           "end": "{0}, or {1}",
           "2": "{0} or {1}"
+        },
+        "listPattern-type-or-narrow": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0}, or {1}",
+          "2": "{0} or {1}"
+        },
+        "listPattern-type-or-short": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0}, or {1}",
+          "2": "{0} or {1}"
+        },
+        "listPattern-type-standard-narrow": {
+          "start": "{0} དང་ {1}",
+          "middle": "{0} དང་ {1}",
+          "end": "{0} དང་ {1}",
+          "2": "{0} དང་ {1}"
         },
         "listPattern-type-standard-short": {
           "start": "{0} དང་ {1}",

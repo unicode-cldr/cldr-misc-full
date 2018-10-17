@@ -3,8 +3,8 @@
     "ta": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "ta"
       },
@@ -20,6 +20,24 @@
           "middle": "{0}, {1}",
           "end": "{0} அல்லது {1}",
           "2": "{0} அல்லது {1}"
+        },
+        "listPattern-type-or-narrow": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0} அல்லது {1}",
+          "2": "{0} அல்லது {1}"
+        },
+        "listPattern-type-or-short": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0} அல்லது {1}",
+          "2": "{0} அல்லது {1}"
+        },
+        "listPattern-type-standard-narrow": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0} மற்றும் {1}",
+          "2": "{0} மற்றும் {1}"
         },
         "listPattern-type-standard-short": {
           "start": "{0}, {1}",

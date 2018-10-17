@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "yue",
         "script": "Hant"
@@ -21,6 +21,24 @@
           "middle": "{0}、{1}",
           "end": "{0} 或 {1}",
           "2": "{0} 或 {1}"
+        },
+        "listPattern-type-or-narrow": {
+          "start": "{0}、{1}",
+          "middle": "{0}、{1}",
+          "end": "{0} 或 {1}",
+          "2": "{0} 或 {1}"
+        },
+        "listPattern-type-or-short": {
+          "start": "{0}、{1}",
+          "middle": "{0}、{1}",
+          "end": "{0} 或 {1}",
+          "2": "{0} 或 {1}"
+        },
+        "listPattern-type-standard-narrow": {
+          "start": "{0}、{1}",
+          "middle": "{0}、{1}",
+          "end": "{0}同{1}",
+          "2": "{0}同{1}"
         },
         "listPattern-type-standard-short": {
           "start": "{0}、{1}",

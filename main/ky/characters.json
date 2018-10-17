@@ -3,13 +3,13 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "ky"
       },
       "characters": {
-        "exemplarCharacters": "[а б г д е ё ж з и й к л м н ӊ о ө п р с т у ү х ч ш ъ ы э ю я]",
+        "exemplarCharacters": "[а б г д е ё ж з и й к л м н ң о ө п р с т у ү х ч ш ъ ы э ю я]",
         "auxiliary": "[в ф ц щ ь]",
         "index": "[А Б В Г Д Е Ё Ж З И Й К Л М Н Ң О Ө П Р С Т У Ү Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я]",
         "numbers": "[  \\\\- , % ‰ + 0 1 2 3 4 5 6 7 8 9]",
@@ -29,8 +29,13 @@
         },
         "lenient-scope-general": {
           ".": "[.․。︒﹒．｡]",
+          "’": "['ʼ՚᾽᾿’＇]",
+          "%": "[%٪﹪％]",
+          "‰": "[؉‰]",
           "$": "[\\\\$﹩＄$]",
           "£": "[£₤]",
+          "¥": "[¥￥]",
+          "₩": "[₩￦]",
           "₹": "[₨₹{Rp}{Rs}]"
         },
         "lenient-scope-number": {

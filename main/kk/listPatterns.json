@@ -3,8 +3,8 @@
     "kk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "kk"
       },
@@ -20,6 +20,24 @@
           "middle": "{0}, {1}",
           "end": "{0}, не болмаса {1}",
           "2": "{0} не {1}"
+        },
+        "listPattern-type-or-narrow": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0}, не болмаса {1}",
+          "2": "{0} не {1}"
+        },
+        "listPattern-type-or-short": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0}, не болмаса {1}",
+          "2": "{0} не {1}"
+        },
+        "listPattern-type-standard-narrow": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0}, {1}",
+          "2": "{0} және {1}"
         },
         "listPattern-type-standard-short": {
           "start": "{0}, {1}",

@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "ga"
       },
@@ -12,7 +12,7 @@
         "exemplarCharacters": "[a á b c d e é f g h i í l m n o ó p r s t u ú]",
         "auxiliary": "[å ḃ ċ ḋ ḟ ġ j k ṁ ṗ q ṡ ṫ v w x y z]",
         "numbers": "[\\\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]",
-        "punctuation": "[\\\\- , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
+        "punctuation": "[\\\\- ‐ – — , ; \\\\: ! ? . … ' ‘ ’ \\\" “ ” ( ) \\\\[ \\\\] § @ * / \\\\& # † ‡ ′ ″]",
         "ellipsis": {
           "final": "{0}…",
           "initial": "…{0}",
@@ -28,8 +28,13 @@
         },
         "lenient-scope-general": {
           ".": "[.․。︒﹒．｡]",
+          "’": "['ʼ՚᾽᾿’＇]",
+          "%": "[%٪﹪％]",
+          "‰": "[؉‰]",
           "$": "[\\\\$﹩＄$]",
           "£": "[£₤]",
+          "¥": "[¥￥]",
+          "₩": "[₩￦]",
           "₹": "[₨₹{Rp}{Rs}]"
         },
         "lenient-scope-number": {

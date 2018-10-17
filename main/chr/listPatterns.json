@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14302 $",
+          "_cldrVersion": "34"
         },
         "language": "chr"
       },
@@ -12,7 +12,7 @@
         "listPattern-type-standard": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0} ᎠᎴ {1}",
+          "end": "{0}, ᎠᎴ {1}",
           "2": "{0} ᎠᎴ {1}"
         },
         "listPattern-type-or": {
@@ -21,10 +21,28 @@
           "end": "{0}, ᎠᎴᏱᎩ {1}",
           "2": "{0} ᎠᎴᏱᎩ {1}"
         },
+        "listPattern-type-or-narrow": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0}, ᎠᎴᏱᎩ {1}",
+          "2": "{0} ᎠᎴᏱᎩ {1}"
+        },
+        "listPattern-type-or-short": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0}, ᎠᎴᏱᎩ {1}",
+          "2": "{0} ᎠᎴᏱᎩ {1}"
+        },
+        "listPattern-type-standard-narrow": {
+          "start": "{0}, {1}",
+          "middle": "{0}, {1}",
+          "end": "{0}, ᎠᎴ {1}",
+          "2": "{0} ᎠᎴ {1}"
+        },
         "listPattern-type-standard-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0} ᎠᎴ {1}",
+          "end": "{0}, ᎠᎴ {1}",
           "2": "{0} ᎠᎴ {1}"
         },
         "listPattern-type-unit": {

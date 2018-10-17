@@ -3,8 +3,8 @@
     "it": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13940 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14486 $",
+          "_cldrVersion": "34"
         },
         "language": "it"
       },
@@ -29,8 +29,13 @@
         },
         "lenient-scope-general": {
           ".": "[.․。︒﹒．｡]",
+          "’": "['ʼ՚᾽᾿’＇]",
+          "%": "[%٪﹪％]",
+          "‰": "[؉‰]",
           "$": "[\\\\$﹩＄$]",
           "£": "[£₤]",
+          "¥": "[¥￥]",
+          "₩": "[₩￦]",
           "₹": "[₨₹{Rp}{Rs}]"
         },
         "lenient-scope-number": {
