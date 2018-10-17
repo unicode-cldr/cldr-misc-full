@@ -1,0 +1,21 @@
+{
+  "main": {
+    "ff-Latn-GM": {
+      "identity": {
+        "version": {
+          "_number": "$Revision: 14446 $",
+          "_cldrVersion": "34"
+        },
+        "language": "ff",
+        "script": "Latn",
+        "territory": "GM"
+      },
+      "delimiters": {
+        "quotationStart": "„",
+        "quotationEnd": "”",
+        "alternateQuotationStart": "‚",
+        "alternateQuotationEnd": "’"
+      }
+    }
+  }
+}

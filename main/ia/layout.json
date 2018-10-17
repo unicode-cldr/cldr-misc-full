@@ -1,0 +1,19 @@
+{
+  "main": {
+    "ia": {
+      "identity": {
+        "version": {
+          "_number": "$Revision: 14415 $",
+          "_cldrVersion": "34"
+        },
+        "language": "ia"
+      },
+      "layout": {
+        "orientation": {
+          "characterOrder": "left-to-right",
+          "lineOrder": "top-to-bottom"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "main": {
+    "ia": {
+      "identity": {
+        "version": {
+          "_number": "$Revision: 14415 $",
+          "_cldrVersion": "34"
+        },
+        "language": "ia"
+      },
+      "posix": {
+        "messages": {
+          "yesstr": "si:s",
+          "nostr": "no:n"
+        }
+      }
+    }
+  }
+}

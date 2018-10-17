@@ -1,0 +1,19 @@
+{
+  "main": {
+    "xh": {
+      "identity": {
+        "version": {
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
+        },
+        "language": "xh"
+      },
+      "posix": {
+        "messages": {
+          "yesstr": "yes:y",
+          "nostr": "no:n"
+        }
+      }
+    }
+  }
+}

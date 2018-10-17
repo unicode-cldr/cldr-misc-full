@@ -1,0 +1,19 @@
+{
+  "main": {
+    "mi": {
+      "identity": {
+        "version": {
+          "_number": "$Revision: 14415 $",
+          "_cldrVersion": "34"
+        },
+        "language": "mi"
+      },
+      "delimiters": {
+        "quotationStart": "“",
+        "quotationEnd": "”",
+        "alternateQuotationStart": "‘",
+        "alternateQuotationEnd": "’"
+      }
+    }
+  }
+}
