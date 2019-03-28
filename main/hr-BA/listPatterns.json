@@ -3,8 +3,8 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "hr",
         "territory": "BA"
@@ -61,8 +61,8 @@
         "listPattern-type-unit-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, {1}",
-          "2": "{0}, {1}"
+          "end": "{0} i {1}",
+          "2": "{0} i {1}"
         }
       }
     }

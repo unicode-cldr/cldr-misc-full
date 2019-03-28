@@ -3,16 +3,16 @@
     "nds": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "nds"
       },
       "characters": {
         "exemplarCharacters": "[a å ä b c d e f g h i j k l m n o ö p q r s t u ü v w x y z]",
-        "auxiliary": "[á à ă â ā æ ç é è ĕ ê ë ę ē í ì ĭ î ï ī ñ ó ò ŏ ô ø ō œ ú ù ŭ û ū ÿ]",
+        "auxiliary": "[]",
         "numbers": "[\\\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]",
-        "punctuation": "[\\\\- , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
+        "punctuation": "[\\\\- ‐ – — , ; \\\\: ! ? . … ' ‘ ‚ \\\" “ „ « » ( ) \\\\[ \\\\] \\\\{ \\\\} § @ * / \\\\& #]",
         "ellipsis": {
           "final": "{0}…",
           "initial": "…{0}",

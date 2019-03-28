@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14818 $",
+          "_cldrVersion": "35"
         },
         "language": "am"
       },
@@ -34,7 +34,7 @@
           "2": "{0} ወይም {1}﻿"
         },
         "listPattern-type-standard-narrow": {
-          "start": "{0}፣ {1}",
+          "start": "{0}, {1}",
           "middle": "{0}፣ {1}",
           "end": "{0}, እና {1}",
           "2": "{0} እና {1}"

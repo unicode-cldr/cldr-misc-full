@@ -3,8 +3,8 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "mn"
       },
@@ -42,8 +42,8 @@
         "listPattern-type-standard-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, {1}",
-          "2": "{0}, {1}"
+          "end": "{0}, & {1}",
+          "2": "{0} & {1}"
         },
         "listPattern-type-unit": {
           "start": "{0}, {1}",

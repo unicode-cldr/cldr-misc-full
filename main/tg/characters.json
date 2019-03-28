@@ -3,15 +3,15 @@
     "tg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14796 $",
+          "_cldrVersion": "35"
         },
         "language": "tg"
       },
       "characters": {
         "exemplarCharacters": "[а б в г ғ д е ё ж з и ӣ й к қ л м н о п р с т у ӯ ф х ҳ ч ҷ ш ъ э ю я]",
         "auxiliary": "[ц щ ы ь]",
-        "numbers": "[  \\\\- , % ‰ + 0 1 2 3 4 5 6 7 8 9]",
+        "numbers": "[\\\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]",
         "punctuation": "[\\\\- , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
         "ellipsis": {
           "final": "{0}…",

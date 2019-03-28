@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14302 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "chr"
       },
@@ -13,7 +13,7 @@
         "auxiliary": "[]",
         "index": "[Ꭰ Ꭶ Ꭽ Ꮃ Ꮉ Ꮎ Ꮖ Ꮜ Ꮣ Ꮬ Ꮳ Ꮹ Ꮿ]",
         "numbers": "[\\\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]",
-        "punctuation": "[\\\\- , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
+        "punctuation": "[\\\\- ‐ – — , ; \\\\: ! ? . … ' ‘ ’ \\\" “ ” ( ) \\\\[ \\\\] § @ * / \\\\& # † ‡ ′ ″]",
         "ellipsis": {
           "final": "{0}…",
           "initial": "…{0}",

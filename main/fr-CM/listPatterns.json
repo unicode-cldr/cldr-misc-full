@@ -3,8 +3,8 @@
     "fr-CM": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14770 $",
+          "_cldrVersion": "35"
         },
         "language": "fr",
         "territory": "CM"
@@ -37,8 +37,8 @@
         "listPattern-type-standard-narrow": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0} et {1}",
-          "2": "{0} et {1}"
+          "end": "{0}, {1}",
+          "2": "{0}, {1}"
         },
         "listPattern-type-standard-short": {
           "start": "{0}, {1}",

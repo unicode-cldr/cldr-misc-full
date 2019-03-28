@@ -3,8 +3,8 @@
     "ar-IL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13880 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14769 $",
+          "_cldrVersion": "35"
         },
         "language": "ar",
         "territory": "IL"
@@ -35,9 +35,9 @@
           "2": "{0} أو {1}"
         },
         "listPattern-type-standard-narrow": {
-          "start": "{0}، و{1}",
-          "middle": "{0}، و{1}",
-          "end": "{0}، و{1}",
+          "start": "{0} و{1}",
+          "middle": "{0} و{1}",
+          "end": "{0} و{1}",
           "2": "{0} و{1}"
         },
         "listPattern-type-standard-short": {

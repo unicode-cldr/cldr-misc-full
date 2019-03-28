@@ -3,8 +3,8 @@
     "pt-PT": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14409 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14789 $",
+          "_cldrVersion": "35"
         },
         "language": "pt",
         "territory": "PT"
@@ -37,8 +37,8 @@
         "listPattern-type-standard-narrow": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0} e {1}",
-          "2": "{0} e {1}"
+          "end": "{0}, {1}",
+          "2": "{0}, {1}"
         },
         "listPattern-type-standard-short": {
           "start": "{0}, {1}",
