@@ -3,17 +3,16 @@
     "ceb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ceb"
       },
       "characters": {
         "exemplarCharacters": "[a b d e g h i k l m n o p r s t u w y]",
         "auxiliary": "[c f j q v x z]",
-        "index": "[a b d e g h i k l m n {ng} o p r s t u w y]",
-        "numbers": "[\\\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]",
-        "punctuation": "[\\\\- , ; \\\\: ! ? . … ' ‘ ’ \\\" “ ” ( ) \\\\[ \\\\] @ * / \\\\& # ′ ″]",
+        "index": "[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z]",
+        "numbers": "[\\\\- ‑ , . % ‰ + 0 1 2 3 4 5 6 7 8 9]",
+        "punctuation": "[\\\\- ‑ , ; \\\\: ! ? . … ' ‘ ’ \\\" “ ” ( ) \\\\[ \\\\] @ * / \\\\& # ′ ″]",
         "ellipsis": {
           "final": "{0}…",
           "initial": "…{0}",

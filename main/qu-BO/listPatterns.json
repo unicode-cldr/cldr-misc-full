@@ -3,8 +3,7 @@
     "qu-BO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "qu",
         "territory": "BO"
@@ -19,20 +18,20 @@
         "listPattern-type-or": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, or {1}",
-          "2": "{0} or {1}"
+          "end": "{0}, utaq {1}",
+          "2": "{0} utaq {1}"
         },
         "listPattern-type-or-narrow": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, or {1}",
-          "2": "{0} or {1}"
+          "end": "{0}, utaq {1}",
+          "2": "{0} utaq {1}"
         },
         "listPattern-type-or-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, or {1}",
-          "2": "{0} or {1}"
+          "end": "{0}, utaq {1}",
+          "2": "{0} utaq {1}"
         },
         "listPattern-type-standard-narrow": {
           "start": "{0}, {1}",

@@ -3,8 +3,7 @@
     "mi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mi"
       },
@@ -12,8 +11,8 @@
         "exemplarCharacters": "[a ā e ē h i ī k m n {ng} o ō p r t u ū w {wh}]",
         "auxiliary": "[b c d f g j l q s v x y z]",
         "index": "[A E H I K M N O P R T U W]",
-        "numbers": "[\\\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]",
-        "punctuation": "[\\\\- , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
+        "numbers": "[\\\\- ‑ , . % ‰ + 0 1 2 3 4 5 6 7 8 9]",
+        "punctuation": "[\\\\- ‑ , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
         "ellipsis": {
           "final": "{0}…",
           "initial": "…{0}",

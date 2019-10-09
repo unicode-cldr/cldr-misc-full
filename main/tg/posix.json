@@ -3,15 +3,14 @@
     "tg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "tg"
       },
       "posix": {
         "messages": {
-          "yesstr": "ҳа:ҳ",
-          "nostr": "не:н"
+          "yesstr": "yes:y",
+          "nostr": "no:n"
         }
       }
     }

@@ -3,8 +3,7 @@
     "sg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sg"
       },
@@ -12,8 +11,8 @@
         "exemplarCharacters": "[a â ä b d e ê ë f g h i î ï j k l m n o ô ö p r s t u ù û ü v w y z]",
         "auxiliary": "[c q x]",
         "index": "[A B D E F G H I J K L M N O P R S T U V W Y Z]",
-        "numbers": "[\\\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]",
-        "punctuation": "[\\\\- , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
+        "numbers": "[\\\\- ‑ , . % ‰ + 0 1 2 3 4 5 6 7 8 9]",
+        "punctuation": "[\\\\- ‑ , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
         "ellipsis": {
           "final": "{0}…",
           "initial": "…{0}",

@@ -3,16 +3,15 @@
     "twq": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "twq"
       },
       "characters": {
         "exemplarCharacters": "[a ã b c d e ẽ f g h i j k l m n ɲ ŋ o õ p q r s š t u w x y z ž]",
         "auxiliary": "[v]",
-        "numbers": "[  \\\\- . % ‰ + 0 1 2 3 4 5 6 7 8 9]",
-        "punctuation": "[\\\\- , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
+        "numbers": "[  \\\\- ‑ . % ‰ + 0 1 2 3 4 5 6 7 8 9]",
+        "punctuation": "[\\\\- ‑ , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
         "ellipsis": {
           "final": "{0}…",
           "initial": "…{0}",

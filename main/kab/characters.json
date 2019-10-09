@@ -3,8 +3,7 @@
     "kab": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "kab"
       },
@@ -12,8 +11,8 @@
         "exemplarCharacters": "[a b c č d ḍ e ɛ f g ǧ ɣ h ḥ i j k l m n p q r ṛ s ṣ t ṭ u w x y z ẓ]",
         "auxiliary": "[o v]",
         "index": "[A B C Č D Ḍ E Ɛ F G Ǧ Ɣ H Ḥ I J K L M N P Q R Ṛ S Ṣ T Ṭ U W X Y Z Ẓ]",
-        "numbers": "[  \\\\- , % ‰ + 0 1 2 3 4 5 6 7 8 9]",
-        "punctuation": "[\\\\- , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
+        "numbers": "[  \\\\- ‑ , % ‰ + 0 1 2 3 4 5 6 7 8 9]",
+        "punctuation": "[\\\\- ‑ , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
         "ellipsis": {
           "final": "{0}…",
           "initial": "…{0}",

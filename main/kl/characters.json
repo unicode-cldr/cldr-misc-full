@@ -3,16 +3,16 @@
     "kl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "kl"
       },
       "characters": {
-        "exemplarCharacters": "[a á â ã b c d e é ê f g h i í î ĩ j k l m n o ô p q r s t u ú û ũ v w x y z æ ø å]",
-        "auxiliary": "[ĸ]",
+        "exemplarCharacters": "[a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å]",
+        "auxiliary": "[á â ã é ê ẽ í î ĩ ô õ ĸ ú û ũ]",
+        "index": "[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å]",
         "numbers": "[, . % ‰ + − 0 1 2 3 4 5 6 7 8 9]",
-        "punctuation": "[\\\\- , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
+        "punctuation": "[\\\\- ‑ , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
         "ellipsis": {
           "final": "{0}…",
           "initial": "…{0}",

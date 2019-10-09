@@ -3,8 +3,7 @@
     "ha-GH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14822 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ha",
         "territory": "GH"
@@ -19,20 +18,20 @@
         "listPattern-type-or": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, or {1}",
-          "2": "{0} or {1}"
+          "end": "{0} ko {1}",
+          "2": "{0} ko {1}"
         },
         "listPattern-type-or-narrow": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, or {1}",
-          "2": "{0} or {1}"
+          "end": "{0} ko {1}",
+          "2": "{0} ko {1}"
         },
         "listPattern-type-or-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, or {1}",
-          "2": "{0} or {1}"
+          "end": "{0} ko {1}",
+          "2": "{0} ko {1}"
         },
         "listPattern-type-standard-narrow": {
           "start": "{0}, {1}",
@@ -49,20 +48,20 @@
         "listPattern-type-unit": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0} da {1}",
-          "2": "{0} da {1}"
+          "end": "{0}, {1}",
+          "2": "{0}, {1}"
         },
         "listPattern-type-unit-narrow": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0} da {1}",
-          "2": "{0} da {1}"
+          "end": "{0}, {1}",
+          "2": "{0}, {1}"
         },
         "listPattern-type-unit-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0} da {1}",
-          "2": "{0} da {1}"
+          "end": "{0}, {1}",
+          "2": "{0}, {1}"
         }
       }
     }

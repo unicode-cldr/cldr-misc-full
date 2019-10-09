@@ -3,8 +3,7 @@
     "rm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14804 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "rm"
       },
@@ -13,7 +12,7 @@
         "auxiliary": "[á ă â å ä ā æ ç ĕ ê ë ē í ĭ î ï ī ñ ó ŏ ô ö ø ō œ ú ŭ û ü ū ÿ]",
         "index": "[A À B C D E É È F G H I Ì J K L M N O Ò P Q R S T U Ù V W X Y Z]",
         "numbers": "[. ’ % ‰ + − 0 1 2 3 4 5 6 7 8 9]",
-        "punctuation": "[\\\\- , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
+        "punctuation": "[\\\\- ‑ , ; \\\\: ! ? . ( ) \\\\[ \\\\] \\\\{ \\\\}]",
         "ellipsis": {
           "final": "{0}…",
           "initial": "…{0}",
