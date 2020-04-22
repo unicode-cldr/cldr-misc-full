@@ -3,7 +3,7 @@
     "kok": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "kok"
       },
@@ -36,7 +36,7 @@
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
           "end": "{0}, {1}",
-          "2": "{0} & {1}"
+          "2": "{0}, {1}"
         },
         "listPattern-type-standard-short": {
           "start": "{0}, {1}",
