@@ -3,7 +3,7 @@
     "ff-Latn-GM": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ff",
         "script": "Latn",
@@ -41,11 +41,11 @@
         },
         "lenient-scope-number": {
           "-": "[\\\\-‐‒–⁻₋−➖﹣－]",
-          ",": "[,،٫、︐︑﹐﹑，､]",
+          ",": "[,،٫⹁、︐︑﹐﹑，､]",
           "+": "[+⁺₊➕﬩﹢＋]"
         },
         "stricter-scope-number": {
-          ",": "[,٫︐﹐，]",
+          ",": "[,٫⹁︐﹐，]",
           ".": "[.․﹒．｡]"
         }
       }

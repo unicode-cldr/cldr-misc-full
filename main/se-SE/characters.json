@@ -3,7 +3,7 @@
     "se-SE": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "se",
         "territory": "SE"
@@ -40,11 +40,11 @@
         },
         "lenient-scope-number": {
           "-": "[\\\\-‐‒–⁻₋−➖﹣－]",
-          ",": "[,،٫、︐︑﹐﹑，､]",
+          ",": "[,،٫⹁、︐︑﹐﹑，､]",
           "+": "[+⁺₊➕﬩﹢＋]"
         },
         "stricter-scope-number": {
-          ",": "[,٫︐﹐，]",
+          ",": "[,٫⹁︐﹐，]",
           ".": "[.․﹒．｡]"
         }
       }

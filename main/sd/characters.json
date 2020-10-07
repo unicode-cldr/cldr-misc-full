@@ -3,7 +3,7 @@
     "sd": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sd"
       },
@@ -39,7 +39,7 @@
         },
         "lenient-scope-number": {
           "-": "[\\\\-‒⁻₋−➖﹣－]",
-          ",": "[,،٫、︐︑﹐﹑，､]",
+          ",": "[,،٫⹁、︐︑﹐﹑，､]",
           "+": "[+⁺₊➕﬩﹢＋]"
         },
         "stricter-scope-number": {

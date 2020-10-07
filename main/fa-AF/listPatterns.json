@@ -3,7 +3,7 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fa",
         "territory": "AF"
@@ -60,7 +60,7 @@
         "listPattern-type-unit-short": {
           "start": "{0}،‏ {1}",
           "middle": "{0}،‏ {1}",
-          "end": "{0}،‏ {1}",
+          "end": "{0}، و {1}",
           "2": "{0}،‏ {1}"
         }
       }

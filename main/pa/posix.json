@@ -3,13 +3,13 @@
     "pa": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pa"
       },
       "posix": {
         "messages": {
-          "yesstr": "ਹਾਂ",
+          "yesstr": "ਹਾਂ:ਹ",
           "nostr": "ਨਹੀਂ:ਨ"
         }
       }

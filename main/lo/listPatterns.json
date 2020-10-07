@@ -3,7 +3,7 @@
     "lo": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "lo"
       },
@@ -41,7 +41,7 @@
         "listPattern-type-standard-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, {1}",
+          "end": "{0} ແລະ {1}",
           "2": "{0} ແລະ {1}"
         },
         "listPattern-type-unit": {

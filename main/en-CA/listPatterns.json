@@ -3,7 +3,7 @@
     "en-CA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "en",
         "territory": "CA"
@@ -36,13 +36,13 @@
         "listPattern-type-standard-narrow": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, and {1}",
-          "2": "{0} and {1}"
+          "end": "{0}, {1}",
+          "2": "{0}, {1}"
         },
         "listPattern-type-standard-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, and {1}",
+          "end": "{0} and {1}",
           "2": "{0} and {1}"
         },
         "listPattern-type-unit": {

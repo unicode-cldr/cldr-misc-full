@@ -3,7 +3,7 @@
     "en-MY": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "en",
         "territory": "MY"
@@ -40,11 +40,11 @@
         },
         "lenient-scope-number": {
           "-": "[\\\\-‐‒–⁻₋−➖﹣－]",
-          ",": "[,،٫、︐︑﹐﹑，､]",
+          ",": "[,،٫⹁、︐︑﹐﹑，､]",
           "+": "[+⁺₊➕﬩﹢＋]"
         },
         "stricter-scope-number": {
-          ",": "[,٫︐﹐，]",
+          ",": "[,٫⹁︐﹐，]",
           ".": "[.․﹒．｡]"
         }
       }

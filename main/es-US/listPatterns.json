@@ -3,7 +3,7 @@
     "es-US": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "es",
         "territory": "US"
@@ -60,7 +60,7 @@
         "listPattern-type-unit-short": {
           "start": "{0}, {1}",
           "middle": "{0}, {1}",
-          "end": "{0}, {1}",
+          "end": "{0} y {1}",
           "2": "{0} y {1}"
         }
       }

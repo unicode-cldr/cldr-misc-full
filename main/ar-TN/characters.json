@@ -3,7 +3,7 @@
     "ar-TN": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ar",
         "territory": "TN"
@@ -40,11 +40,11 @@
         },
         "lenient-scope-number": {
           "-": "[\\\\-‒⁻₋−➖﹣－]",
-          ",": "[,،٫、︐︑﹐﹑，､]",
+          ",": "[,،٫⹁、︐︑﹐﹑，､]",
           "+": "[+⁺₊➕﬩﹢＋]"
         },
         "stricter-scope-number": {
-          ",": "[,٫︐﹐，]",
+          ",": "[,٫⹁︐﹐，]",
           ".": "[.․﹒．｡]"
         }
       }

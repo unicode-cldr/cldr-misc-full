@@ -3,15 +3,15 @@
     "nl": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nl"
       },
       "delimiters": {
         "quotationStart": "‘",
         "quotationEnd": "’",
-        "alternateQuotationStart": "“",
-        "alternateQuotationEnd": "”"
+        "alternateQuotationStart": "‘",
+        "alternateQuotationEnd": "’"
       }
     }
   }

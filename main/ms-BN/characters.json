@@ -3,13 +3,13 @@
     "ms-BN": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ms",
         "territory": "BN"
       },
       "characters": {
-        "exemplarCharacters": "[a {ai} {au} b c d {dz} e f g h i j k {kh} l m n {ng} {ngg} {ny} o p q r s {sy} t {ts} u {ua} v w x y z]",
+        "exemplarCharacters": "[a b c d e f g h i j k l m n o p q r s t u v w x y z]",
         "auxiliary": "[]",
         "index": "[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z]",
         "numbers": "[\\\\- ‑ , . % ‰ + 0 1 2 3 4 5 6 7 8 9]",

@@ -3,14 +3,14 @@
     "as": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "as"
       },
       "posix": {
         "messages": {
-          "yesstr": "yes:y",
-          "nostr": "no:n"
+          "yesstr": "হয়",
+          "nostr": "নহয়"
         }
       }
     }
